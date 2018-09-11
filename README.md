@@ -1,6 +1,7 @@
 # MyProject
 一个爬图片(妹子)的scrapy程序<br>
-项目:爬取http://www.jj20.com/中的美女版块,实现的功能可以把每个写真集里面的图片放在同一个文件夹下,像素贼高的<br>
+项目:爬取http://www.jj20.com/<br>
+中的美女版块,实现的功能可以把每个写真集里面的图片放在同一个文件夹下,像素贼高的<br>
 技术: 使用scrapy框架实现,难度:中等<br>
 
 开始版块可以指定:  比如美女版块开始就是:   start_urls = ['http://www.jj20.com/bz/nxxz/list_7_1.html']<br>
